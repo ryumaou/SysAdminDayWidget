@@ -20,4 +20,4 @@ You may need to place that widget on your sidebar, if you don't have it set to a
 
 ## Author Information
 
-The Realms Weather Wordpress Widget was made by J K Hoffman, who you can find at https://www.jkhoffman.com/ or https://www.ryumaou.com/Hoffman/NetGeek .
+The Realms Weather Wordpress Widget was made by J K Hoffman, who you can find at https://www.jkhoffman.com/ or https://www.ryumaou.com .
